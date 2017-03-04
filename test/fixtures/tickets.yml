@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  month: 2017-03-04 01:39:07
+  sla: false
+  restore_time: 1
+  start_time: 1
+
+two:
+  month: 2017-03-04 01:39:07
+  sla: false
+  restore_time: 1
+  start_time: 1
