@@ -23,3 +23,5 @@ The result for `COALESCE` is really fast (look at the query time in `ms`):
  If you want to test this, run `rake db:drop db:create db:migrate db:seed` in your local machine after you clone and `bundle install`.
 
  It will take a while to load that 100,000 tickets data.
+
+ Look at the code [here](coalesce_query_exploration/blob/master/app/models/ticket.rb).
