@@ -24,4 +24,4 @@ The result for `COALESCE` is really fast (look at the query time in `ms`):
 
  It will take a while to load that 100,000 tickets data.
 
- Look at the code [here](coalesce_query_exploration/blob/master/app/models/ticket.rb).
+ Look at the code [here](app/models/ticket.rb).
